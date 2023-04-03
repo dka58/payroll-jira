@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+psycopg2-binary
+passlib[bcrypt]
+python-jose[cryptography]
+python-dotenv
+pytest
+starlette
+pydantic
+fastapi_jwt_auth
+tortoise-orm
+asyncpg
